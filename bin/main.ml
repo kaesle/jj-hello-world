@@ -1,4 +1,6 @@
+let print = print_endline
+
 let () =
-  print_endline "Hello, world!";
-  print_endline "Goodbye, world!"
+  print "Hello, world!";
+  print "Goodbye, world!"
 ;;
