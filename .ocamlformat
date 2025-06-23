@@ -1,0 +1,4 @@
+version=0.27.0       # Match your installed ocamlformat version
+profile=janestreet
+margin=72
+break-separators=before  # Key setting to remove trailing ;;
