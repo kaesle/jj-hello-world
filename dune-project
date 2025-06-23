@@ -19,6 +19,6 @@
  (description "Based on the Rust example from the one and only Steve Klabnik")
  (depends ocaml)
  (tags
-  ("hello world" jj jujutsu)))
+  (helloworld jj jujutsu)))
 
 ; See the complete stanza docs at https://dune.readthedocs.io/en/stable/reference/dune-project/index.html
